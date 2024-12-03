@@ -1,6 +1,6 @@
 I will be storing my OverTheWire checpoints, so I can pickup where I left.
 DO NOT COPY, YOU WILL RUIN THE FUN FOR YOURSELF :(
 
-BANDIT 6-7
-ssh -p 2220 bandit6@bandit.labs.overthewire.org
-pass: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+BANDIT 12-13
+ssh -p 2220 bandit12@bandit.labs.overthewire.org
+pass: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
